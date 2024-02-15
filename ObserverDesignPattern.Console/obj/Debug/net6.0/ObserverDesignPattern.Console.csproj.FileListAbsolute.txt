@@ -1,0 +1,14 @@
+C:\Users\Tugba\source\repos\ObserverDesignPattern.Console\ObserverDesignPattern.Console\bin\Debug\net6.0\ObserverDesignPattern.Console.exe
+C:\Users\Tugba\source\repos\ObserverDesignPattern.Console\ObserverDesignPattern.Console\bin\Debug\net6.0\ObserverDesignPattern.Console.deps.json
+C:\Users\Tugba\source\repos\ObserverDesignPattern.Console\ObserverDesignPattern.Console\bin\Debug\net6.0\ObserverDesignPattern.Console.runtimeconfig.json
+C:\Users\Tugba\source\repos\ObserverDesignPattern.Console\ObserverDesignPattern.Console\bin\Debug\net6.0\ObserverDesignPattern.Console.dll
+C:\Users\Tugba\source\repos\ObserverDesignPattern.Console\ObserverDesignPattern.Console\bin\Debug\net6.0\ObserverDesignPattern.Console.pdb
+C:\Users\Tugba\source\repos\ObserverDesignPattern.Console\ObserverDesignPattern.Console\obj\Debug\net6.0\ObserverDesignPattern.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tugba\source\repos\ObserverDesignPattern.Console\ObserverDesignPattern.Console\obj\Debug\net6.0\ObserverDesignPattern.Console.AssemblyInfoInputs.cache
+C:\Users\Tugba\source\repos\ObserverDesignPattern.Console\ObserverDesignPattern.Console\obj\Debug\net6.0\ObserverDesignPattern.Console.AssemblyInfo.cs
+C:\Users\Tugba\source\repos\ObserverDesignPattern.Console\ObserverDesignPattern.Console\obj\Debug\net6.0\ObserverDesignPattern.Console.csproj.CoreCompileInputs.cache
+C:\Users\Tugba\source\repos\ObserverDesignPattern.Console\ObserverDesignPattern.Console\obj\Debug\net6.0\ObserverDesignPattern.Console.dll
+C:\Users\Tugba\source\repos\ObserverDesignPattern.Console\ObserverDesignPattern.Console\obj\Debug\net6.0\refint\ObserverDesignPattern.Console.dll
+C:\Users\Tugba\source\repos\ObserverDesignPattern.Console\ObserverDesignPattern.Console\obj\Debug\net6.0\ObserverDesignPattern.Console.pdb
+C:\Users\Tugba\source\repos\ObserverDesignPattern.Console\ObserverDesignPattern.Console\obj\Debug\net6.0\ObserverDesignPattern.Console.genruntimeconfig.cache
+C:\Users\Tugba\source\repos\ObserverDesignPattern.Console\ObserverDesignPattern.Console\obj\Debug\net6.0\ref\ObserverDesignPattern.Console.dll
